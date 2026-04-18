@@ -1,0 +1,17 @@
+# Dependencies
+/vendor/
+
+# PHPUnit
+/.phpunit.result.cache
+
+# PHP-CS-Fixer
+/.php-cs-fixer.cache
+
+# Development/Local
+/.idea/
+/.vscode/
+/tests/local_test_config.php
+
+# OS files
+.DS_Store
+Thumbs.db
